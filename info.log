@@ -8,3 +8,32 @@
 {"message":"bookmark with id abf3c3dc-3284-4f18-b7f6-b51e8aa22ac2 created","level":"info"}
 {"message":"bookmark with id abf3c3dc-3284-4f18-b7f6-b51e8aa22ac2 deleted.","level":"info"}
 {"message":"bookmark with id abf3c3dc-3284-4f18-b7f6-b51e8aa22ac2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"bookmark with id undefined deleted.","level":"info"}
+{"message":"bookmark with id undefined deleted.","level":"info"}
+{"message":"bookmark with id 4 deleted.","level":"info"}
+{"message":"bookmark with id 4 deleted.","level":"info"}
+{"message":"bookmark with id 4 deleted.","level":"info"}
+{"message":"bookmark with id 4 deleted.","level":"info"}
+{"message":"bookmark with id 4 deleted.","level":"info"}
+{"message":"bookmark with id 3 deleted.","level":"info"}
+{"message":"bookmark with id d605bbdd-bb08-4e1f-b7ed-670d4bd6f4de created","level":"info"}
+{"message":"bookmark with id 174858c4-ca6f-4248-b204-71ef152dfc35 created","level":"info"}
+{"message":"bookmark with id 11775267-76be-452f-845a-595dae2dcdf1 created","level":"info"}
+{"message":"bookmark with id 13014fae-679e-450f-8e42-0ed5e4665f64 created","level":"info"}
+{"message":"bookmark with id 100 created","level":"info"}
+{"message":"bookmark with id 31 created","level":"info"}
+{"message":"bookmark with id 32 created","level":"info"}
+{"message":"bookmark with id 3 deleted.","level":"info"}
+{"message":"bookmark with id 1 deleted.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 1 was updated.","level":"info"}
+{"message":"bookmark with id 2 was updated.","level":"info"}
